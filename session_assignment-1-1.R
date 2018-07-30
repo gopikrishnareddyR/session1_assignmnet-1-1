@@ -2,12 +2,12 @@
 
 #1.Say true or false for the below statements:
 
-#prescriptive Analytics Used to predict the future outcomes? yes
+#prescriptive Analytics Used to predict the future outcomes? true
 
-# yes
-#Base R packages Installed automatically? yes
+# True
+#Base R packages Installed automatically? True
 
-# yes
+# True
 
 # 2. What is recycling of elements in a vector?
 # when applying an operation to 2 vectors that requires them to be the same length, R automatically recycles,or 
